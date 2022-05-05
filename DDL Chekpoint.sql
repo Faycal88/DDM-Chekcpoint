@@ -1,4 +1,4 @@
-CREATE DATABASE gmcdb;
+CREATE DATABASE gmcdb;  /* This file was created on MySQL Workbench */ 
 use gmcdb;
 
 CREATE TABLE Product (
